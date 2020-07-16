@@ -3,7 +3,10 @@
   
    
 範例1：  
-![Alt Text](https://github.com/micky85lu/chihuahua/blob/master/ex1.gif)  
+![Alt Text](./ex1.gif)
   
 範例2：  
-![Alt Text](https://github.com/micky85lu/chihuahua/blob/master/ex2.gif)  
+![Alt Text](./ex2.gif)  
+  
+範例3：  
+![Alt Text](./ex3.gif)  
