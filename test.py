@@ -11,9 +11,9 @@ def test2(a, b):
 
 
 print(' ==== test chihuahua ====')
-print('func `test1`')
+print('func test1: one chihuahua')
 test1(1, 2)
 sleep(2)
 
-print('func `test2`')
+print('func test2: rotated chihuahua')
 test2(1, 2)
